@@ -33,6 +33,7 @@ ALTER PROCEDURE [dbo].[APcreateFromInstalment]
 as 
 --TSETAAAAAAAAA
 --TTTTTTTTTTTTTTT
+--GGGGGGGGGGGGGG
 --exec transferonedocapCharIhead  'AP' , @apbranchcode ,@pdocdate ,@pdocdate,'2' ,@precordcode,'OTH',@running
 
 declare @apbranchcode char(4)
